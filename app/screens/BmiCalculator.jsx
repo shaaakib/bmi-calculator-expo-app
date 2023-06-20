@@ -1,6 +1,6 @@
 import { Image, Text, View } from 'react-native';
 import React from 'react';
-import { SafeAreaView, StyleSheet } from 'react-native';
+import { StyleSheet } from 'react-native';
 import { colors } from '../theme/colors';
 import { LinearGradient } from 'expo-linear-gradient';
 import { images } from '../theme/images';
